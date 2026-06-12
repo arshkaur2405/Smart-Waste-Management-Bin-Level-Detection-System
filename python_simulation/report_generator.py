@@ -29,3 +29,4 @@ def generate_report():
     pdf.build(content)
 
     print("PDF Report Generated")
+    # ..
