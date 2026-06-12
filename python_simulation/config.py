@@ -1,0 +1,7 @@
+BIN_HEIGHT = 100
+
+WARNING_THRESHOLD = 50
+
+FULL_THRESHOLD = 80
+
+CSV_FILE = "data/bin_telemetry_log.csv"
